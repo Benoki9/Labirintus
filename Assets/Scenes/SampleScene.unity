@@ -1231,7 +1231,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11455738, guid: 407bd5cbe8c43334bb1b25c0f3826974, type: 3}
       propertyPath: lastTab
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 11455738, guid: 407bd5cbe8c43334bb1b25c0f3826974, type: 3}
       propertyPath: maxHeight
@@ -1242,8 +1242,12 @@ PrefabInstance:
       value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 11455738, guid: 407bd5cbe8c43334bb1b25c0f3826974, type: 3}
+      propertyPath: mouseRotationKey
+      value: 324
+      objectReference: {fileID: 0}
+    - target: {fileID: 11455738, guid: 407bd5cbe8c43334bb1b25c0f3826974, type: 3}
       propertyPath: mouseRotationSpeed
-      value: 1000
+      value: 1500
       objectReference: {fileID: 0}
     - target: {fileID: 11455738, guid: 407bd5cbe8c43334bb1b25c0f3826974, type: 3}
       propertyPath: keyboardMovementSpeed
@@ -2743,8 +2747,20 @@ PrefabInstance:
       value: 1.7109613
       objectReference: {fileID: 0}
     - target: {fileID: 1496650815, guid: 135eff6c24b61ff47b2e8a60aacf28e4, type: 3}
+      propertyPath: m_Radius
+      value: 0.60542405
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496650815, guid: 135eff6c24b61ff47b2e8a60aacf28e4, type: 3}
+      propertyPath: m_Center.x
+      value: 0.009377003
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496650815, guid: 135eff6c24b61ff47b2e8a60aacf28e4, type: 3}
       propertyPath: m_Center.y
       value: 0.7397795
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496650815, guid: 135eff6c24b61ff47b2e8a60aacf28e4, type: 3}
+      propertyPath: m_Center.z
+      value: -0.024439275
       objectReference: {fileID: 0}
     - target: {fileID: 1496650815, guid: 135eff6c24b61ff47b2e8a60aacf28e4, type: 3}
       propertyPath: m_IsTrigger
